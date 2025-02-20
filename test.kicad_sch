@@ -1283,12 +1283,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(junction
-		(at 171.45 111.76)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f7dd33ec-a491-4526-bc7a-1d8473ba6139")
-	)
 	(wire
 		(pts
 			(xy 203.2 111.76) (xy 220.98 111.76)
@@ -1308,46 +1302,6 @@
 			(type default)
 		)
 		(uuid "8f3bc60f-ae3e-4cbf-98b0-46e4cd1a8f54")
-	)
-	(wire
-		(pts
-			(xy 171.45 111.76) (xy 171.45 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9ee68a10-486e-4db8-8b37-cf335c8ead92")
-	)
-	(wire
-		(pts
-			(xy 171.45 111.76) (xy 182.88 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b8ac2f19-f9b4-4a2c-b996-e4b56c279d7d")
-	)
-	(wire
-		(pts
-			(xy 151.13 95.25) (xy 171.45 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bb7fa09d-5dd4-4159-a6b3-d08408a08a0c")
-	)
-	(wire
-		(pts
-			(xy 171.45 95.25) (xy 171.45 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eec8f149-5370-41b7-ba20-0c457dd9577a")
 	)
 	(symbol
 		(lib_id "MCU_ST_STM32F4:STM32F401C_D-E_Ux")
